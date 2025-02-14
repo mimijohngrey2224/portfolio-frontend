@@ -171,12 +171,12 @@ function Header() {
           >
             Work Samples
           </a>
-          <a
+          {/* <a
             className="text-xl font-medium text-black hover:text-slate-500"
             href=""
           >
             Resume
-          </a>
+          </a> */}
           <a
             className="text-xl font-medium text-black hover:text-slate-500"
             href="/contacts"
