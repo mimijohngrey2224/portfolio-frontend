@@ -176,7 +176,7 @@ function Header() {
             href=""
           >
             Resume
-          </a> */} ok
+          </a> */} 
           <a
             className="text-xl font-medium text-black hover:text-slate-500"
             href="/contacts"
